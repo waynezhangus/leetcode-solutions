@@ -1,3 +1,5 @@
+#include "header.h"
+
 class Solution {
 public:
     bool isPerfectSquare(int num) {
